@@ -22,10 +22,6 @@ time
 ```
 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [python](https://www.python.org/) - The software used
