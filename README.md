@@ -1,7 +1,11 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)](https://www.python.org/downloads/release/python-360/) 
 # multi_paint
 
+It is a project which helps multiple users/clients to paint in a single window at a time. A group of people can paint on a single canvas or work on a single art. It can aslo be used to play games like guess the drawing.
 
-It is a project which helps multiple users/clients to paint in a single window at a time. Pygame is used to make a  basic paint like application added with eraser and brush tools. Socket programming with treading is used to make a multi-client system.
+**Pygame** is used to make a  basic paint like application added with eraser and brush tools. **Socket programming** with multi-threading is used to make a multi-client system.
 
 ## Getting Started
 
@@ -25,10 +29,10 @@ time
 ## Built With
 
 * [python](https://www.python.org/) - The software used
+## Author
+[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
 
-## Authors
-
-* **Shaashwat Agrawal** - *Initial work* - [Shaashwat05](https://github.com/Shaashwat05)
+* [**Shaashwat Agrawal**](https://github.com/Shaashwat05) Authors 
 
 
 ## Acknowledgments
